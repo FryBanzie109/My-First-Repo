@@ -1,0 +1,28 @@
+main > div > img {
+    width: 150px;
+}
+
+body {
+    background-color: orange;
+}
+
+body > header {
+    background-color: green;
+    color: white;
+    height: 50px;
+}
+
+body > section > table {
+    width: 1000px;
+    color: white;
+    background-color: black;
+}
+
+body > div > img {
+    width: 150px;
+    border-radius: 50%;
+}
+
+body > div {
+    background-color: black;
+}
